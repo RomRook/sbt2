@@ -3,4 +3,5 @@
   */
 class test1 {
 
+  println("---------")
 }
